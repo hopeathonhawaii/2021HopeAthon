@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Hawaii HopeAthon Page for applicants
 
 You can use the [editor on GitHub](https://github.com/hopeathonhawaii/2021HopeAthon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
